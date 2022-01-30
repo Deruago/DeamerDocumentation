@@ -18,7 +18,7 @@ There are 2 main flows of documentation:
 - User flow: When using DST what do I need to know?
 - Developer flow: When developing DST what do I need to know?
 
-The user flow overview can be found [here](./Concepts/Deamer/Deamer.md) (./Concepts/DST/DST.md).
+The user flow overview can be found [here](./Concepts/DST/DST.md) (./Concepts/DST/DST.md).
 
 The developer flow overview can be found [here](./) (./). [not yet implemented]
 

@@ -22,6 +22,7 @@ The Nonterminal LDO, allows various abstractions. Abstractions are concepts that
 | ----------- | ------------------------------------------------------------ |
 | Standard    | Used to define a standard nonterminal.                       |
 | Group       | Used to define if a nonterminal is a base class of direct underlying terminals/nonterminals. E.g. if a set of terminals are used in the same context (e.g. operators), then you can group them under a nonterminal "operator". This also works for nonterminals. |
+| Inline      | Deamer CC utilities inline the nonterminal, the effect is that each nonterminal reference is visually replaced by the union of production rules of that nonterminal. The actual structure will be unaffected.                        |
 
 ## Use cases
 
